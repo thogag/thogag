@@ -22,7 +22,7 @@ Here are some of the skills I frequently use:
 Interested in collaborating or discussing a research opportunity, and more precisely a PhD? Reach out to me via email!  
 Got a question or just curious about something? Feel free to ask!
 
-If you want to know more about my professional and academic backgrounde, you will find [here](https://github.com/thogag/About_me/blob/main/Resume_Thomas_Gagnieu_PhD.pdf) my Resume.
+If you want to know more about my professional and academic backgrounde, you will find [here](https://github.com/thogag/About_me/blob/main/Resume_Thomas_Gagnieu_PhD_updated) my Resume.
 
 ---
 
