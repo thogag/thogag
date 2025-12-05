@@ -37,6 +37,8 @@ These tools aim to simplify and accelerate the analysis of complex biological da
 I work on several datasets to uncover biological insights at differents level (genomic, transcritomic or proteomic).  
 My work includes **data preprocessing**, **integration**, **dimensionality reduction**, **clustering**, and **visualization**, using Python and R-based frameworks.
 
+---
+
 ## Research papers
 ### *Effect of Hypoxia on Microglial morphology and transcriptomic signature in a mouse model of great prematurity* 
 - [POSTER](https://github.com/thogag/About_me/blob/main/Poster_neurodays_2025_OR.pdf) (Realised thanks to Jeanne Gaudicheau Aubry-SBRI)
@@ -46,7 +48,7 @@ My work includes **data preprocessing**, **integration**, **dimensionality reduc
 ## Contact
 Student associated email: thomas.gagnieu@etu.univ-lyon1.fr
 
-My email : tom.gagnieu69@gmail.com
+My email: tom.gagnieu69@gmail.com
 
 Feel free to connect or discuss research, science, or just interesting projects!
 
