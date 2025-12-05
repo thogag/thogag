@@ -17,6 +17,7 @@ Here are some of the skills I frequently use:
 - **RNA-seq Data Analysis**  
 - **Automated Pipelines**  
 - **Simulations and Predictive Modeling**  
+- **Scientific Popularization**  (Writer for the youtube channel [Zebroloss](https://www.youtube.com/@zebroloss))
 
 Interested in collaborating or discussing a research opportunity, and more precisely a PhD? Reach out to me via email!  
 Got a question or just curious about something? Feel free to ask!
@@ -36,7 +37,7 @@ My work includes **data preprocessing**, **integration**, **dimensionality reduc
 
 ## Research papers
 ### *Effect of Hypoxia on Microglial morphology and transcriptomic signature in a mouse model of great prematurity* 
-- [POSTER](https://github.com/thogag/About_me/Poster_neurodays_2025_OR.pdf) (Realised thanks to Jeanne Gaudicheau Aubry-SBRI)
+- [POSTER](https://github.com/thogag/About_me/blob/main/Poster_neurodays_2025_OR.pdf) (Realised thanks to Jeanne Gaudicheau Aubry-SBRI)
 - PAPER (submitted)
 
 ---
@@ -51,4 +52,3 @@ Feel free to connect or discuss research, science, or just interesting projects!
 
 ## ⚡ Fun Fact
 🇫🇷 Yeah, I’m French, I love wine, cheese, bread, but I’m going to disappoint you, I don’t eat snails or frog legs!
-
