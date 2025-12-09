@@ -41,7 +41,7 @@ My work includes **data preprocessing**, **integration**, **dimensionality reduc
 
 ## Research papers
 ### *Effect of Hypoxia on Microglial morphology and transcriptomic signature in a mouse model of great prematurity* 
-- [POSTER](https://github.com/thogag/About_me/blob/main/Poster_neurodays_2025_OR.pdf) (Realised thanks to Jeanne Gaudicheau Aubry-SBRI)
+- [POSTER](https://github.com/thogag/About_me/blob/main/Poster_neurodays_2025_OR.pdf) (Realised with and thanks to Jeanne Gaudicheau Aubry-SBRI)
 - PAPER (submitted)
 
 ---
